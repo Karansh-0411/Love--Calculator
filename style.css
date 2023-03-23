@@ -105,4 +105,8 @@ input {
     .heart-img {
         margin: 0.5rem 0;
     }
+    
+    .ans-para {
+        text-align: center;
+    }
 }
